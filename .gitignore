@@ -1,0 +1,7 @@
+similarity.pkl
+vectors.pkl
+movies.pkl
+*.ipynb
+.vscode/
+.ipynb_checkpoints/
+*.ipynb
