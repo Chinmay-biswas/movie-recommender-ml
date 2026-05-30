@@ -1,6 +1,7 @@
 similarity.pkl
 vectors.pkl
 movies.pkl
+CleanedTMDB1000.csv
 *.ipynb
 .vscode/
 .ipynb_checkpoints/
