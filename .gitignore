@@ -6,3 +6,4 @@ CleanedTMDB1000.csv
 .vscode/
 .ipynb_checkpoints/
 *.ipynb
+.idea

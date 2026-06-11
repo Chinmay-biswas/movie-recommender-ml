@@ -103,7 +103,7 @@ def recommend(movie):
         enumerate(distances),
         reverse=True,
         key=lambda item: item[1]
-    )[1:41]
+    )[0:41]
 
     recommendations = [
         movie_payload(movies.iloc[index])
